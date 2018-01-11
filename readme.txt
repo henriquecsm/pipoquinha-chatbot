@@ -3,7 +3,7 @@ Teste realizado por Henrique César Maria:
 Objetivos: 
 	A. Desenvolvimento de uma aplicação backend integrando o messenger facebook como chatbot para realizar pesquisa e 
            dar dicas sobre filmes aos usuários.
-        B. Foi integrado também a ao chatbot a capacidade de enviar informação sobre o clima de uma determinada cidade.
+        B. Foi integrado também ao chatbot a capacidade de enviar informação sobre o clima de uma determinada cidade.
 
 1. Arquitetura utilizada:
      ______             ________            _________             
